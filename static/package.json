@@ -1,3 +1,4 @@
 {
-  "name": "static"
+  "name": "static",
+  "main": "/js/main.js"
 }
